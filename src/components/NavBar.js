@@ -55,7 +55,7 @@ const Header = () => {
         <Toolbar sx={{ paddingBottom: 1 }}>
           <img
             alt="logo"
-            src="https://raw.githubusercontent.com/tanmay2626/images/main/logo_-removebg-preview.png?token=GHSAT0AAAAAABWGUSFBCOQTS5TQTLWE7KYUYWURTAQ"
+            src="https://raw.githubusercontent.com/tanmay2626/Assignment/main/public/logo_-removebg-preview.png"
           />
           <Typography
             variant="h6"

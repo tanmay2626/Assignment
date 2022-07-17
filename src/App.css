@@ -1,0 +1,21 @@
+
+/* Home */
+
+.home{
+  display: flex;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.home-left{
+  display: flex;
+  flex: 0.75;
+}
+
+.home-right{
+  display: flex;
+  flex: 0.25;
+}
+
+
+
